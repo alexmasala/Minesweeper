@@ -1,1 +1,3 @@
 # Minesweeper
+
+Build a Minesweeper.
